@@ -46,8 +46,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     NetworkImageView networkImageView;
     ImageView imageView;
     ArrayList<UserList.UserDataList> mUserDataList = new ArrayList<>();
-    String BASE_URL = "https://reqres.in"; // base request url
-    String IMAGE_URL = "https://www.android.com/static/2016/img/share/oreo-lg.jpg"; // base image url
+    String BASE_URL = "https://000.00"; // base request url
+    String IMAGE_URL = "https://0000/00.jpg"; // base image url
     int numberOfRequestsCompleted;
 
     @Override
